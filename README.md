@@ -1,10 +1,10 @@
 > Version 1 – a web page with two eyes that follow the mouse movement
 
-It was time for a fun activity where I had to use some of the skills I’ve learned in manipulating styles. I had fun exploring what is possible when HTML, CSS, and JavaScript come together! I created a web page with two eyes that follow the mouse movement. This activity required me to bring together my skills in JavaScript and CSS to create this dynamic experience.
+Tracking or showing an animation on a map turned out to be pretty useful to convey information to the user. In this case I added a button to the map that triggers a marker to move through a number of bus stops between two institutions. In this case there is a bus that moves between MIT and Harvard.
 
 ## Documentation
 
-Bring together skills in JavaScript and CSS to create this dynamic experience.
+Adds a button to the map that triggers a marker to move through a number of bus stops between the MIT and Harvard.
 
 ## Upgrading
 
