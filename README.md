@@ -1,3 +1,5 @@
+## EYES EXERCISE
+
 > Version 1 – a web page with two eyes that follow the mouse movement
 
 Tracking or showing an animation on a map turned out to be pretty useful to convey information to the user. In this case I added a button to the map that triggers a marker to move through a number of bus stops between two institutions. In this case there is a bus that moves between MIT and Harvard.
